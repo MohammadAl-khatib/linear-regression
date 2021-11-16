@@ -1,2 +1,2 @@
 ## Linear Regression
-PR: 
+PR: https://github.com/MohammadAl-khatib/linear-regression/pull/1
